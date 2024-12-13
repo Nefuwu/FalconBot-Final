@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "FalconBot",
+    "slug": "chatbot",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/adamsonlogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/adamsonlogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.sleeepy.chatbot",
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adamsonlogo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.sleeepy.chatbot"
+    },
+    "web": {
+      "favicon": "./assets/adamsonlogo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5631b185-18ff-4537-be4e-96c7f7c1ea78"
+      }
+    },
+    "plugins": [
+      "expo-asset"
+    ],
+    "owner": "nefuu"
+  }
+}
