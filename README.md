@@ -27,8 +27,6 @@ FalconBot is a hybrid chatbot application built to deliver intelligent and conte
 ---
 
 
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend:** React Native (Expo)
