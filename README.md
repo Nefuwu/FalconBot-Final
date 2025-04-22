@@ -11,7 +11,7 @@ FalconBot is a hybrid chatbot application built to deliver intelligent and conte
   - Neural-based engine (transformer-based models) for natural conversation.
 
 - 📂 **Document Understanding**
-  - Extracts key data from documents (e.g., invoices, forms).
+  - Extracts key data from documents (e.g., student manuals, forms).
   - Supports classification and storage into a structured database.
 
 - 🌐 **API-First Backend**
